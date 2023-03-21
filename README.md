@@ -30,6 +30,21 @@ Victor
 \end{tabular}
 \end{table}
 
+
+# HORARIO
+| HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
+|------|-------|--------|-----------|--------|---------|
+| 1pm  | IGS   | IGS    | IGS       | IGS    | IGS     |
+| 2pm  | PA    | PA     | PA        | PA     | PA      |
+| 3pm  | INN   | INN    | INN       | INN    |         |
+| 4pm  | ADM   | ADM    | ADM       | ADM    |         |
+| 5pm  | SIS   | SIS    | SIS       | SIS    | SIS     |
+| 6pm  |       |        |           |        |         |
+| 7pm  | PWE   | PWE    | PWE       | PWE    |         |
+| 8pm  |       |        |           |        |         |
+
+
+
 ```csharp
 using System;
 using System.Collections.Generic;
